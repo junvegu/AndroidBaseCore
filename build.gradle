@@ -3,9 +3,10 @@
 buildscript {
     repositories {
         jcenter()
+        google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.2'
+        classpath 'com.android.tools.build:gradle:3.0.1'
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
         classpath 'com.google.gms:google-services:3.0.0'
         // NOTE: Do not place your application dependencies here; they belong
@@ -17,6 +18,7 @@ allprojects {
     repositories {
         jcenter()
         maven { url "https://jitpack.io" }
+        google()
     }
 }
 
@@ -29,7 +31,7 @@ ext {
     minSdkVersion = 18
     targetSdkVersion = 26
     compileSdkVersion = 26
-    buildToolsVersion = '26.0.1'
+    buildToolsVersion = '27.0.2'
     playServicesVersion = '8.5.1'
     // versions
     supportLibraryVersion = '26.0.0-alpha1'

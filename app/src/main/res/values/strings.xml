@@ -1,3 +1,57 @@
 <resources>
-    <string name="app_name">CoreAndroid</string>
+    <string name="app_name">Perú Vende</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Opciones</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_cart">Carrito</string>
+    <string name="action_notifications">Notificaciones</string>
+
+    <string name="item_1">Ofertas</string>
+    <string name="item_2">Textil</string>
+    <string name="item_3">Calzado y accesorios</string>
+    <string name="item_4">Artesania</string>
+    <string name="item_5">Juguetes y entretenimiento</string>
+    <string name="item_6">Productos orgánicos y otros</string>
+
+    <string name="my_profile">Mi perfil</string>
+    <string name="my_rewards">Cumpleaños</string>
+    <string name="my_orders">Mis Ordenes</string>
+    <string name="my_cart">Mi Carro de compras </string>
+    <string name="my_wishlist">Mi lista de deseos</string>
+    <string name="my_account">Mi Cuenta</string>
+
+    <string name="help_support">Ayuda</string>
+    <string name="contact_us">Contactanos</string>
+    <string name="terms_conditions">Términos y condiciones</string>
+    <string name="help_center">Centro de ayuda</string>
+
+    <string name="search_hint">Buscar productos, marcas y más </string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Pantalla de inicio</string>
+    <string name="next">Siguiente</string>
+    <string name="skip">Pasar</string>
+    <string name="start">Vamos</string>
+
+    <string name="slide_1_title">Hola comida!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!
+    </string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc"> --
+    </string>
+    <string name="play_again">Jugar denuevo</string>
 </resources>
